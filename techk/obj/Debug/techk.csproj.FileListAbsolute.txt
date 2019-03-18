@@ -1,0 +1,10 @@
+C:\Users\nicolas.bornand\Documents\Visual Studio 2010\Projects\techk\techk\bin\techk.dll
+C:\Users\nicolas.bornand\Documents\Visual Studio 2010\Projects\techk\techk\bin\techk.pdb
+C:\Users\nicolas.bornand\Documents\Visual Studio 2010\Projects\techk\techk\bin\Newtonsoft.Json.dll
+C:\Users\nicolas.bornand\Documents\Visual Studio 2010\Projects\techk\techk\bin\Newtonsoft.Json.pdb
+C:\Users\nicolas.bornand\Documents\Visual Studio 2010\Projects\techk\techk\bin\Newtonsoft.Json.xml
+C:\Users\nicolas.bornand\Documents\Visual Studio 2010\Projects\techk\techk\obj\Debug\techk.dll
+C:\Users\nicolas.bornand\Documents\Visual Studio 2010\Projects\techk\techk\obj\Debug\techk.pdb
+C:\Users\nicolas.bornand\Documents\Visual Studio 2010\Projects\techk\techk\obj\Debug\techk.csprojAssemblyReference.cache
+C:\Users\nicolas.bornand\Documents\Visual Studio 2010\Projects\techk\techk\obj\Debug\techk.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.bornand\Documents\Visual Studio 2010\Projects\techk\techk\obj\Debug\techk.csproj.CopyComplete

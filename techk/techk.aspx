@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title></title>
+    <title>Tech-k Trainee</title>
     <link href="~/Styles/animate.css" rel="stylesheet" />
     <link href="~/Styles/bootstrap.min.css" rel="stylesheet" />
     <script type="text/javascript" src="Scripts/bootstrap.min.js"></script>
